@@ -20,5 +20,5 @@ p (34%5)
 end
 
 def square_root(num)
-p Integer.sqrt(81)
+p math.sqrt(81)
 end
